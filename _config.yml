@@ -3,7 +3,7 @@ author:
   name: Saksham Agarwal
   email: saksham2703@gmail.com
 
-theme: minima
+theme: jekyll-theme-minima
 
 plugins:
   - jekyll-feed
